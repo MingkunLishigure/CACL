@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: SpCL
+Version: 1.0.0
+Summary: Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID
+Home-page: https://github.com/yxgeee/SpCL
+Author: Yixiao Ge
+Author-email: geyixiao831@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: Unsupervised Learning,Unsupervised Domain Adaptation,Contrastive Learning,Object Re-identification
+Platform: UNKNOWN
